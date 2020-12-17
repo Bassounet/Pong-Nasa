@@ -1,10 +1,2 @@
-# Encore un pong
+# Et pouf un pong apparaît
 
-https://davidmarsprof.github.io/pong-wimbledon/
-
-Pour jouer...
-
-### Rafael
-touches A / Q 
-### Roger
-touches P / M 
